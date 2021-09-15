@@ -1,0 +1,17 @@
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.exe
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.deps.json
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.runtimeconfig.json
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.runtimeconfig.dev.json
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.dll
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.pdb
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.AssemblyReference.cache
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.AssemblyInfoInputs.cache
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.AssemblyInfo.cs
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.CoreCompileInputs.cache
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.CopyComplete
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.dll
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.pdb
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.genruntimeconfig.cache

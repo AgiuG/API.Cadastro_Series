@@ -1,0 +1,10 @@
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Dotnet curso\MentoriaDIO-2\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
